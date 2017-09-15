@@ -1,0 +1,28 @@
+﻿.asuntoCSS{
+    width: 300px;
+}
+
+.comentariosCSS{
+    width: 300px;
+    height: 200px;
+}
+
+.title1 {
+    vertical-align: text-top;
+}
+
+.narracion{
+    width: 300px;
+    height: 60px;
+    resize: none;
+}
+
+.input-disabled{
+    background-color:#EBEBE4;
+    border:1px solid #ABADB3;
+    padding:2px 1px;
+}
+
+textarea {
+    resize: none;
+}
